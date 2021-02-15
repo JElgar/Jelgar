@@ -1,4 +1,4 @@
-### Hi there! Im James 👋
+### Hi there! I'm James 👋
 
 - 🔭 I’m currently working on: [now-u](https://now-u.com/), checkout out our work [here](https://github.com/now-u)!
 - 🌱 I’m currently learning: Kubernetes
